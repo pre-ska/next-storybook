@@ -25,5 +25,5 @@
     "titleBar.inactiveForeground": "#e7e7e799"
   },
   "peacock.color": "#832561",
-  "cSpell.words": ["tailwindcss"]
+  "cSpell.words": ["tailwindcss", "viewports"]
 }
