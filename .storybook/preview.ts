@@ -36,6 +36,7 @@ const preview: Preview = {
       },
     },
     viewport: { viewports: customViewports },
+    layout: "fullscreen",
   },
 };
 
