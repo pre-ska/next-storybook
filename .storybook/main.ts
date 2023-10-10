@@ -13,6 +13,13 @@ const config: StorybookConfig = {
     "@storybook/addon-essentials",
     "@storybook/addon-onboarding",
     "@storybook/addon-interactions",
+    {
+      name: "@storybook/addon-styling",
+      options: {
+        postCss: true,
+      },
+    },
+    "storybook-css-modules-preset",
   ],
   framework: {
     name: "@storybook/nextjs",
